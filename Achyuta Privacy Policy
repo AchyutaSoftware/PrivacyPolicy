@@ -18,7 +18,9 @@ Cookies are small data files used as anonymous unique identifiers. They are sent
 This Service does not use cookies directly. However, it may include third-party code and libraries that use cookies to collect information and improve their services. You have the option to accept or refuse cookies, and to know when a cookie is being sent to your device. Refusing cookies may result in limited functionality of some features of the Service.
 
 Location Information
-Some features of the Service may access Photo,Viedos,Music,Audio information transmitted from your mobile device. This data is used only within the scope necessary to deliver the relevant features.
+Some features of the Service may access photos, videos, or audio files selected by the user from their device's media library. 
+This access is limited to the specific files chosen by the user and is used only to enable core app functionality, such as uploading media.
+The app does not access or request permission to view or manage all files on your device
 
 Device Information
 We may collect non-personally identifiable device information to improve our services and help prevent fraud. This information does not include anything that personally identifies the user.
